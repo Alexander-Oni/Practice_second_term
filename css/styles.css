@@ -1,0 +1,13 @@
+/* global */
+@import "global/reboot.css";
+@import "global/buttons.css";
+@import "global/adaptive.css";
+
+/* blocks */
+@import "blocks/header.css";
+@import "blocks/hero.css";
+@import "blocks/about.css";
+@import "blocks/development.css";
+@import "blocks/benefits.css";
+@import "blocks/cta.css";
+@import "blocks/footer.css";
