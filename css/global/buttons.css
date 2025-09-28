@@ -1,7 +1,7 @@
 .button {
   display: inline-block;
   background: #4caf50;
-  color: white;
+  color: #fff;
   padding: 12px 30px;
   border-radius: 5px;
   text-decoration: none;
@@ -15,16 +15,16 @@
 .button:hover {
   background: #45a049;
   transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
 
 .button--secondary {
   background: transparent;
-  border: 2px solid white;
-  color: white;
+  border: 2px solid #fff;
+  color: #fff;
 }
 
 .button--secondary:hover {
-  background: white;
+  background: #fff;
   color: #4caf50;
 }
